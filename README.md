@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/negarziehm/Microvision-AI]
+[https://github.com/NezNova/Microvision-AI]
 
 ## Description
 
