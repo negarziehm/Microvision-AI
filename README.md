@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Automated Defect Inspection in Semiconductor SEM Images
 
 ## Repository Link
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+MicroVision AI is a machine learning project focused on automated defect detection and segmentation in semiconductor SEM (Scanning Electron Microscopy) images. The project combines classical image analysis techniques with deep learning approaches to identify structural defects in lithography and semiconductor patterns. Inspired by recent hybrid AI methods, the framework explores preprocessing, anomaly detection, and segmentation models for accurate inspection under limited-data conditions. The goal is to develop an interpretable and robust inspection pipeline for advanced semiconductor manufacturing applications.
 
 ### Task Type
 
